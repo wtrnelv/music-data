@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1, "title": "The Dark Side of the Moon", "artist": "Pink Floyd", "type": "album", "year": 1973,
+    "genre": "Progressive rock", "label": "Harvest", "duration": "42:49",
+    "spotifyPopularity": 80, "lastFmListeners": "4.9M", "coverColor": "#3B2F63",
+    "coverUrl": "https://picsum.photos/seed/dsotm/400",
+    "tracks": [
+      {"number": 1, "title": "Speak to Me", "duration": "1:07"},
+      {"number": 2, "title": "Breathe", "duration": "2:43"},
+      {"number": 3, "title": "Time", "duration": "6:53"},
+      {"number": 4, "title": "Money", "duration": "6:22"}
+    ]
+  },
+  {
+    "id": 2, "title": "Random Access Memories", "artist": "Daft Punk", "type": "album", "year": 2013,
+    "genre": "Electronic, disco", "label": "Columbia", "duration": "74:24",
+    "spotifyPopularity": 78, "lastFmListeners": "3.6M", "coverColor": "#B8860B",
+    "coverUrl": "https://picsum.photos/seed/ram/400",
+    "tracks": [
+      {"number": 1, "title": "Give Life Back to Music", "duration": "4:34"},
+      {"number": 2, "title": "Get Lucky", "duration": "6:08"},
+      {"number": 3, "title": "Instant Crush", "duration": "5:37"}
+    ]
+  },
+  {
+    "id": 3, "title": "OK Computer", "artist": "Radiohead", "type": "album", "year": 1997,
+    "genre": "Alternative rock", "label": "Parlophone", "duration": "53:21",
+    "spotifyPopularity": 79, "lastFmListeners": "4.4M", "coverColor": "#2E6F6F",
+    "coverUrl": "https://picsum.photos/seed/okc/400",
+    "tracks": [
+      {"number": 1, "title": "Airbag", "duration": "4:44"},
+      {"number": 2, "title": "Paranoid Android", "duration": "6:23"},
+      {"number": 3, "title": "Karma Police", "duration": "4:21"}
+    ]
+  },
+  {
+    "id": 4, "title": "Thriller", "artist": "Michael Jackson", "type": "album", "year": 1982,
+    "genre": "Pop, funk", "label": "Epic", "duration": "42:19",
+    "spotifyPopularity": 82, "lastFmListeners": "3.9M", "coverColor": "#8B1E1E",
+    "coverUrl": "https://picsum.photos/seed/thriller/400",
+    "tracks": [
+      {"number": 1, "title": "Wanna Be Startin' Somethin'", "duration": "6:03"},
+      {"number": 2, "title": "Thriller", "duration": "5:57"},
+      {"number": 3, "title": "Beat It", "duration": "4:18"}
+    ]
+  },
+  {
+    "id": 5, "title": "Nevermind", "artist": "Nirvana", "type": "album", "year": 1991,
+    "genre": "Grunge", "label": "DGC", "duration": "42:37",
+    "spotifyPopularity": 81, "lastFmListeners": "5.1M", "coverColor": "#1F5F8B",
+    "coverUrl": "https://picsum.photos/seed/nevermind/400",
+    "tracks": [
+      {"number": 1, "title": "Smells Like Teen Spirit", "duration": "5:01"},
+      {"number": 2, "title": "Come as You Are", "duration": "3:39"},
+      {"number": 3, "title": "Lithium", "duration": "4:17"}
+    ]
+  },
+  {
+    "id": 6, "title": "When We All Fall Asleep, Where Do We Go?", "artist": "Billie Eilish", "type": "album", "year": 2019,
+    "genre": "Electropop", "label": "Darkroom / Interscope", "duration": "42:55",
+    "spotifyPopularity": 85, "lastFmListeners": "2.8M", "coverColor": "#4A6B1F",
+    "coverUrl": "https://picsum.photos/seed/wwafa/400",
+    "tracks": [
+      {"number": 1, "title": "bad guy", "duration": "3:14"},
+      {"number": 2, "title": "bury a friend", "duration": "3:13"},
+      {"number": 3, "title": "when the party's over", "duration": "3:16"}
+    ]
+  }
+]
