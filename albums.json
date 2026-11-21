@@ -1,69 +1,507 @@
 [
   {
-    "id": 1, "title": "The Dark Side of the Moon", "artist": "Pink Floyd", "type": "album", "year": 1973,
-    "genre": "Progressive rock", "label": "Harvest", "duration": "42:49",
-    "spotifyPopularity": 80, "lastFmListeners": "4.9M", "coverColor": "#3B2F63",
-    "coverUrl": "https://picsum.photos/seed/dsotm/400",
+    "id": 1,
+    "title": "You'll Rebel to Anything",
+    "artist": "Mindless Self Indulgence",
+    "type": "album",
+    "year": 2005,
+    "genre": "Industrial rock, synthpunk",
+    "label": "Metropolis Records",
+    "duration": "26:25",
+    "spotifyPopularity": 62,
+    "lastFmListeners": "0.9M",
+    "coverColor": "#C2185B",
+    "coverUrl": "https://picsum.photos/seed/album1/400",
     "tracks": [
-      {"number": 1, "title": "Speak to Me", "duration": "1:07"},
-      {"number": 2, "title": "Breathe", "duration": "2:43"},
-      {"number": 3, "title": "Time", "duration": "6:53"},
-      {"number": 4, "title": "Money", "duration": "6:22"}
+      {
+        "number": 1,
+        "title": "Shut Me Up",
+        "duration": "2:48"
+      },
+      {
+        "number": 2,
+        "title": "1989",
+        "duration": "1:57"
+      },
+      {
+        "number": 3,
+        "title": "Straight to Video",
+        "duration": "3:44"
+      },
+      {
+        "number": 4,
+        "title": "Tom Sawyer",
+        "duration": "2:24"
+      },
+      {
+        "number": 5,
+        "title": "You'll Rebel to Anything (As Long as It's Not Challenging)",
+        "duration": "2:32"
+      },
+      {
+        "number": 6,
+        "title": "What Do They Know?",
+        "duration": "3:08"
+      },
+      {
+        "number": 7,
+        "title": "Stupid MF",
+        "duration": "2:25"
+      },
+      {
+        "number": 8,
+        "title": "2 Hookers and an Eightball",
+        "duration": "2:17"
+      },
+      {
+        "number": 9,
+        "title": "Prom",
+        "duration": "2:29"
+      },
+      {
+        "number": 10,
+        "title": "Bullshit",
+        "duration": "2:40"
+      }
     ]
   },
   {
-    "id": 2, "title": "Random Access Memories", "artist": "Daft Punk", "type": "album", "year": 2013,
-    "genre": "Electronic, disco", "label": "Columbia", "duration": "74:24",
-    "spotifyPopularity": 78, "lastFmListeners": "3.6M", "coverColor": "#B8860B",
-    "coverUrl": "https://picsum.photos/seed/ram/400",
+    "id": 2,
+    "title": "House of Sugar",
+    "artist": "Alex G",
+    "type": "album",
+    "year": 2019,
+    "genre": "Indie rock, lo-fi",
+    "label": "Domino",
+    "duration": "37:00",
+    "spotifyPopularity": 63,
+    "lastFmListeners": "0.6M",
+    "coverColor": "#6D8B3A",
+    "coverUrl": "https://picsum.photos/seed/album2/400",
     "tracks": [
-      {"number": 1, "title": "Give Life Back to Music", "duration": "4:34"},
-      {"number": 2, "title": "Get Lucky", "duration": "6:08"},
-      {"number": 3, "title": "Instant Crush", "duration": "5:37"}
+      {
+        "number": 1,
+        "title": "Walk Away",
+        "duration": "3:14"
+      },
+      {
+        "number": 2,
+        "title": "Gretel",
+        "duration": "3:22"
+      },
+      {
+        "number": 3,
+        "title": "Hope",
+        "duration": "3:00"
+      }
     ]
   },
   {
-    "id": 3, "title": "OK Computer", "artist": "Radiohead", "type": "album", "year": 1997,
-    "genre": "Alternative rock", "label": "Parlophone", "duration": "53:21",
-    "spotifyPopularity": 79, "lastFmListeners": "4.4M", "coverColor": "#2E6F6F",
-    "coverUrl": "https://picsum.photos/seed/okc/400",
+    "id": 3,
+    "title": "Pinkerton",
+    "artist": "Weezer",
+    "type": "album",
+    "year": 1996,
+    "genre": "Alternative rock, emo",
+    "label": "Geffen",
+    "duration": "34:00",
+    "spotifyPopularity": 74,
+    "lastFmListeners": "3.6M",
+    "coverColor": "#8D6E63",
+    "coverUrl": "https://picsum.photos/seed/album3/400",
     "tracks": [
-      {"number": 1, "title": "Airbag", "duration": "4:44"},
-      {"number": 2, "title": "Paranoid Android", "duration": "6:23"},
-      {"number": 3, "title": "Karma Police", "duration": "4:21"}
+      {
+        "number": 1,
+        "title": "Tired of Sex",
+        "duration": "3:00"
+      },
+      {
+        "number": 2,
+        "title": "Across the Sea",
+        "duration": "4:30"
+      },
+      {
+        "number": 3,
+        "title": "El Scorcho",
+        "duration": "4:03"
+      }
     ]
   },
   {
-    "id": 4, "title": "Thriller", "artist": "Michael Jackson", "type": "album", "year": 1982,
-    "genre": "Pop, funk", "label": "Epic", "duration": "42:19",
-    "spotifyPopularity": 82, "lastFmListeners": "3.9M", "coverColor": "#8B1E1E",
-    "coverUrl": "https://picsum.photos/seed/thriller/400",
+    "id": 4,
+    "title": "Bloody Kisses",
+    "artist": "Type O Negative",
+    "type": "album",
+    "year": 1993,
+    "genre": "Gothic metal",
+    "label": "Roadrunner",
+    "duration": "73:00",
+    "spotifyPopularity": 66,
+    "lastFmListeners": "1.4M",
+    "coverColor": "#4A148C",
+    "coverUrl": "https://picsum.photos/seed/album4/400",
     "tracks": [
-      {"number": 1, "title": "Wanna Be Startin' Somethin'", "duration": "6:03"},
-      {"number": 2, "title": "Thriller", "duration": "5:57"},
-      {"number": 3, "title": "Beat It", "duration": "4:18"}
+      {
+        "number": 1,
+        "title": "Christian Woman",
+        "duration": "4:30"
+      },
+      {
+        "number": 2,
+        "title": "Black No. 1 (Little Miss Scare-All)",
+        "duration": "11:15"
+      },
+      {
+        "number": 3,
+        "title": "Summer Breeze",
+        "duration": "7:30"
+      }
     ]
   },
   {
-    "id": 5, "title": "Nevermind", "artist": "Nirvana", "type": "album", "year": 1991,
-    "genre": "Grunge", "label": "DGC", "duration": "42:37",
-    "spotifyPopularity": 81, "lastFmListeners": "5.1M", "coverColor": "#1F5F8B",
-    "coverUrl": "https://picsum.photos/seed/nevermind/400",
+    "id": 5,
+    "title": "She Wants Revenge",
+    "artist": "She Wants Revenge",
+    "type": "album",
+    "year": 2006,
+    "genre": "Post-punk revival, darkwave",
+    "label": "Geffen",
+    "duration": "44:00",
+    "spotifyPopularity": 68,
+    "lastFmListeners": "1.5M",
+    "coverColor": "#212121",
+    "coverUrl": "https://picsum.photos/seed/album5/400",
     "tracks": [
-      {"number": 1, "title": "Smells Like Teen Spirit", "duration": "5:01"},
-      {"number": 2, "title": "Come as You Are", "duration": "3:39"},
-      {"number": 3, "title": "Lithium", "duration": "4:17"}
+      {
+        "number": 1,
+        "title": "Tear You Apart",
+        "duration": "3:24"
+      },
+      {
+        "number": 2,
+        "title": "These Things",
+        "duration": "3:40"
+      },
+      {
+        "number": 3,
+        "title": "Out of Control",
+        "duration": "3:55"
+      }
     ]
   },
   {
-    "id": 6, "title": "When We All Fall Asleep, Where Do We Go?", "artist": "Billie Eilish", "type": "album", "year": 2019,
-    "genre": "Electropop", "label": "Darkroom / Interscope", "duration": "42:55",
-    "spotifyPopularity": 85, "lastFmListeners": "2.8M", "coverColor": "#4A6B1F",
-    "coverUrl": "https://picsum.photos/seed/wwafa/400",
+    "id": 6,
+    "title": "The Colour and the Shape",
+    "artist": "Foo Fighters",
+    "type": "album",
+    "year": 1997,
+    "genre": "Alternative rock, post-grunge",
+    "label": "Roswell / Capitol",
+    "duration": "46:00",
+    "spotifyPopularity": 82,
+    "lastFmListeners": "3.4M",
+    "coverColor": "#C62828",
+    "coverUrl": "https://picsum.photos/seed/album6/400",
     "tracks": [
-      {"number": 1, "title": "bad guy", "duration": "3:14"},
-      {"number": 2, "title": "bury a friend", "duration": "3:13"},
-      {"number": 3, "title": "when the party's over", "duration": "3:16"}
+      {
+        "number": 1,
+        "title": "Everlong",
+        "duration": "4:10"
+      },
+      {
+        "number": 2,
+        "title": "My Hero",
+        "duration": "4:20"
+      },
+      {
+        "number": 3,
+        "title": "Monkey Wrench",
+        "duration": "3:51"
+      },
+      {
+        "number": 4,
+        "title": "Hey, Johnny Park!",
+        "duration": "4:08"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Parklife",
+    "artist": "Blur",
+    "type": "album",
+    "year": 1994,
+    "genre": "Britpop",
+    "label": "Food / EMI",
+    "duration": "52:00",
+    "spotifyPopularity": 75,
+    "lastFmListeners": "3.4M",
+    "coverColor": "#2E7D32",
+    "coverUrl": "https://picsum.photos/seed/album7/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Girls & Boys",
+        "duration": "4:50"
+      },
+      {
+        "number": 2,
+        "title": "Parklife",
+        "duration": "3:07"
+      },
+      {
+        "number": 3,
+        "title": "To the End",
+        "duration": "4:05"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "type": "album",
+    "year": 2013,
+    "genre": "Indie rock",
+    "label": "Domino",
+    "duration": "42:00",
+    "spotifyPopularity": 90,
+    "lastFmListeners": "5.0M",
+    "coverColor": "#37474F",
+    "coverUrl": "https://picsum.photos/seed/album8/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Do I Wanna Know?",
+        "duration": "4:32"
+      },
+      {
+        "number": 2,
+        "title": "R U Mine?",
+        "duration": "3:21"
+      },
+      {
+        "number": 3,
+        "title": "Why'd You Only Call Me When You're High?",
+        "duration": "2:41"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Disintegration",
+    "artist": "The Cure",
+    "type": "album",
+    "year": 1989,
+    "genre": "Gothic rock, new wave",
+    "label": "Fiction",
+    "duration": "72:00",
+    "spotifyPopularity": 78,
+    "lastFmListeners": "3.5M",
+    "coverColor": "#7B1FA2",
+    "coverUrl": "https://picsum.photos/seed/album9/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Plainsong",
+        "duration": "5:12"
+      },
+      {
+        "number": 2,
+        "title": "Pictures of You",
+        "duration": "7:24"
+      },
+      {
+        "number": 3,
+        "title": "Lovesong",
+        "duration": "3:29"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Violator",
+    "artist": "Depeche Mode",
+    "type": "album",
+    "year": 1990,
+    "genre": "Synth-pop",
+    "label": "Mute",
+    "duration": "47:00",
+    "spotifyPopularity": 79,
+    "lastFmListeners": "3.8M",
+    "coverColor": "#B71C1C",
+    "coverUrl": "https://picsum.photos/seed/album10/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Personal Jesus",
+        "duration": "4:56"
+      },
+      {
+        "number": 2,
+        "title": "Enjoy the Silence",
+        "duration": "6:12"
+      },
+      {
+        "number": 3,
+        "title": "Policy of Truth",
+        "duration": "4:55"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "type": "album",
+    "year": 1994,
+    "genre": "Industrial rock",
+    "label": "Nothing / Interscope",
+    "duration": "65:00",
+    "spotifyPopularity": 76,
+    "lastFmListeners": "3.3M",
+    "coverColor": "#424242",
+    "coverUrl": "https://picsum.photos/seed/album11/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Mr. Self Destruct",
+        "duration": "4:30"
+      },
+      {
+        "number": 2,
+        "title": "Closer",
+        "duration": "6:13"
+      },
+      {
+        "number": 3,
+        "title": "Hurt",
+        "duration": "6:13"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "type": "album",
+    "year": 2000,
+    "genre": "Nu metal",
+    "label": "Warner Bros.",
+    "duration": "38:00",
+    "spotifyPopularity": 88,
+    "lastFmListeners": "5.5M",
+    "coverColor": "#EF6C00",
+    "coverUrl": "https://picsum.photos/seed/album12/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Papercut",
+        "duration": "3:05"
+      },
+      {
+        "number": 2,
+        "title": "One Step Closer",
+        "duration": "2:36"
+      },
+      {
+        "number": 3,
+        "title": "In the End",
+        "duration": "3:36"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "type": "album",
+    "year": 2006,
+    "genre": "Rock opera, emo",
+    "label": "Reprise",
+    "duration": "51:00",
+    "spotifyPopularity": 80,
+    "lastFmListeners": "4.0M",
+    "coverColor": "#212121",
+    "coverUrl": "https://picsum.photos/seed/album13/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Welcome to the Black Parade",
+        "duration": "5:11"
+      },
+      {
+        "number": 2,
+        "title": "Dead!",
+        "duration": "3:15"
+      },
+      {
+        "number": 3,
+        "title": "Famous Last Words",
+        "duration": "4:59"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "type": "album",
+    "year": 2015,
+    "genre": "Psychedelic pop",
+    "label": "Modular / Interscope",
+    "duration": "51:00",
+    "spotifyPopularity": 85,
+    "lastFmListeners": "3.9M",
+    "coverColor": "#AD1457",
+    "coverUrl": "https://picsum.photos/seed/album14/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Let It Happen",
+        "duration": "7:47"
+      },
+      {
+        "number": 2,
+        "title": "The Less I Know the Better",
+        "duration": "3:36"
+      },
+      {
+        "number": 3,
+        "title": "Eventually",
+        "duration": "5:19"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Unknown Pleasures",
+    "artist": "Joy Division",
+    "type": "album",
+    "year": 1979,
+    "genre": "Post-punk",
+    "label": "Factory",
+    "duration": "39:00",
+    "spotifyPopularity": 77,
+    "lastFmListeners": "2.6M",
+    "coverColor": "#455A64",
+    "coverUrl": "https://picsum.photos/seed/album15/400",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Disorder",
+        "duration": "3:32"
+      },
+      {
+        "number": 2,
+        "title": "Day of the Lords",
+        "duration": "4:48"
+      },
+      {
+        "number": 3,
+        "title": "She's Lost Control",
+        "duration": "3:55"
+      }
     ]
   }
 ]
